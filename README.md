@@ -133,12 +133,6 @@
 
 
 
-**Federated Learning of Generative Image Priors for MRI Reconstruction** \
-*Elmas, Gokberk, Salman UH Dar, Yilmaz Korkmaz, Emir Ceyani, Burak Susam, Muzaffer Ozbey, Salman Avestimehr, and Tolga Çukur* \
-[09 November 2022] [TMI]<br>
-[[Paper](https://doi.org/10.1109/TMI.2022.3220757)] [[Github](https://github.com/icon-lab/FedGIMP)]
-
-
 
 **SwinGAN: A dual-domain Swin Transformer-based generative adversarial network for MRI reconstruction** \
 *Zhao, Xiang, Tiejun Yang, Bingjie Li, and Xin Zhang* \
@@ -161,12 +155,6 @@
 [[Paper](https://doi.org/10.1002/mrm.29453)] [[Github](https://github.com/obdemirel/SIIM)]
 
 
-**Specificity-Preserving Federated Learning for MR Image Reconstruction** \
-*Feng, Chun-Mei, Yunlu Yan, Shanshan Wang, Yong Xu, Ling Shao, and Huazhu Fu* \
-[26 August 2022] [TMI]<br>
-[[Paper](https://doi.org/10.1109/TMI.2022.3202106)] [[Github](https://github.com/chunmeifeng/FedMRI/tree/main)]
-
-
 **Deep learning for fast low-field MRI acquisitions** \
 *Ayde, Reina, Tobias Senft, Najat Salameh, and Mathieu Sarracanie* \
 [06 July 2022] [Sci. Rep.]<br>
@@ -185,12 +173,6 @@
 *Du, Tianming, Honggang Zhang, Yuemeng Li, Stephen Pickup, Mark Rosen, Rong Zhou, Hee Kwon Song, and Yong Fan* \
 [16 May 2021] [Med. Image Anal.]<br>
 [[Paper](https://doi.org/10.1016/j.media.2021.102098)] [[Github](https://gitlab.com/qgpmztmf/acnn-k-space)]
-
-
-**Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning** \
-*Guo, Pengfei, Puyang Wang, Jinyuan Zhou, Shanshan Jiang, and Vishal M. Patel* \
-[10 March 2021] [CVPR]<br>
-[[Paper](https://doi.org/10.48550/arXiv.2103.02148)] [[Github](https://github.com/guopengf/FL-MRCM)]
 
 
 
@@ -219,20 +201,10 @@
 [[Paper](https://doi.org/10.1088/1361-6560/aac71a)] 
 
 
-
-
-
-
-
-
-
-
 **Ultra-Fast T2-Weighted MR Reconstruction Using Complementary T1-Weighted Information** \
 *Xiang, Lei, Yong Chen, Weitang Chang, Yiqiang Zhan, Weili Lin, Qian Wang, and Dinggang Shen* \
 [26 September 2018] [MICCAI]<br>
 [[Paper](https://doi.org/10.1007/978-3-030-00928-1_25)]
-
-
 
 
 **Accelerating T2 mapping of the brain by integrating deep learning priors with low-rank and sparse modeling** \
@@ -284,10 +256,34 @@
 
 ### Federated Learning
 
-**Adaptive channel-modulated personalized federated learning for magnetic resonance image reconstruction.** \
+**Adaptive channel-modulated personalized federated learning for magnetic resonance image reconstruction** \
 *Lyu, Jun, Yapeng Tian, Qing Cai, Chengyan Wang, and Jing Qin* \
 [16 August 2023] [Computers in Biology and Medicine] \
 [[Paper](https://doi.org/10.1016/j.compbiomed.2023.107330)] [[GitHub](https://github.com/)]
+
+**Federated End-to-End Unrolled Models for Magnetic Resonance Image Reconstruction** \
+*Levac, Brett R., Marius Arvinte, and Jonathan I. Tamir* \
+[16 March 2023] [Bioengineering] \
+[[Paper](https://doi.org/10.3390/bioengineering10030364)] [[GitHub](https://github.com/utcsilab/Unrolled_FedLrn)]
+
+
+**Federated Learning of Generative Image Priors for MRI Reconstruction** \
+*Elmas, Gokberk, Salman UH Dar, Yilmaz Korkmaz, Emir Ceyani, Burak Susam, Muzaffer Ozbey, Salman Avestimehr, and Tolga Çukur* \
+[09 November 2022] [TMI]<br>
+[[Paper](https://doi.org/10.1109/TMI.2022.3220757)] [[Github](https://github.com/icon-lab/FedGIMP)]
+
+
+**Specificity-Preserving Federated Learning for MR Image Reconstruction** \
+*Feng, Chun-Mei, Yunlu Yan, Shanshan Wang, Yong Xu, Ling Shao, and Huazhu Fu* \
+[26 August 2022] [TMI]<br>
+[[Paper](https://doi.org/10.1109/TMI.2022.3202106)] [[Github](https://github.com/chunmeifeng/FedMRI/tree/main)]
+
+
+
+**Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning** \
+*Guo, Pengfei, Puyang Wang, Jinyuan Zhou, Shanshan Jiang, and Vishal M. Patel* \
+[10 March 2021] [CVPR]<br>
+[[Paper](https://doi.org/10.48550/arXiv.2103.02148)] [[Github](https://github.com/guopengf/FL-MRCM)]
 
 
 
