@@ -236,13 +236,16 @@
 
 **DCT-net: Dual-domain cross-fusion transformer network for MRI reconstruction** \
 *Wang, Bin, Yusheng Lian, Xingchuang Xiong, Han Zhou, Zilong Liu, and Xiaohao Zhou* \
-[17 January 2024] [MRI] \
+[17 January 2024] [MRI]<br>
 [[Paper](https://doi.org/10.1016/j.mri.2024.01.007)]
+
 
 **DSMENet: Detail and Structure Mutually Enhancing Network for under-sampled MRI reconstruction** \
 *Wang, Yueze, Yanwei Pang, and Chuan Tong* \
 [13 October 2022] [Computers in Biology and Medicine]<br>
 [[Paper](https://doi.org/10.1016/j.compbiomed.2022.106204)]
+
+
 ---
 
 #### Self-supervise
