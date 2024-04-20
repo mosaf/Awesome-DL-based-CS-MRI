@@ -693,15 +693,66 @@
 
 
 
+
 ---
----
 
-### Dataset
+# Dataset
 
-**fastMRI ....** \
-*Sai Shankar Narasimhan, Shubhankar Agarwal, Oguzhan Akcin, Sujay Sanghavi, Sandeep Chinchali* \
-[5th Mar., 2024] [arXiv, 2024] \
-[[Paper](https://arxiv.org/abs/2403.02682)]
+**fastMRI Dataset** \
+*Center for Advanced Imaging Innovation and Research (CAI2R), Department of Radiology at NYU School of Medicine and NYU Langone Health* \
+[[Dataset](https://fastmri.med.nyu.edu/)] [[Github](https://github.com/facebookresearch/fastMRI)] <br>
 
-Some table with imaging parameters ...
+`Multi-coil raw k-space data` <br>
+* **Imaging region**
+  *  Brain
+  * Knee
+  * Prostate
+
+**IXI Dataset** \
+*Imperial College London* \
+[[Dataset](https://brain-development.org/ixi-dataset/)] <br>
+
+`Single-coil magnitude image data` <br>
+* **Imaging region**
+  *  Brain
+
+
+
+**BraTS Dataset** \
+*multi-institutional* \
+[[Dataset](http://braintumorsegmentation.org/)] <br>
+
+`Single-coil magnitude image data` <br>
+* **Imaging region**
+  *  Brain
+
+
+
+**Atria Segmentation Challenge** \
+
+[[Dataset](https://www.cardiacatlas.org/atriaseg2018-challenge/)] <br>
+
+`Single-coil magnitude image data` <br>
+* **Imaging region**
+  *  Cardiac
+
+
+**Cardiovascular Magnetic Resonance Imaging** \
+
+[[Dataset](https://github.com/MRIOSU/OCMR?tab=readme-ov-file)] <br>
+
+`Multi-coil raw k-space data` <br>
+* **Imaging region**
+  *  Cardiovascular
+
+
+
+**mridata** \
+
+[[Dataset](http://mridata.org/)] <br>
+
+`Multi-coil raw k-space data` <br>
+* **Imaging region**
+  *  Knee
+
 
