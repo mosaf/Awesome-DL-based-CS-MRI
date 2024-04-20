@@ -1,11 +1,11 @@
 # <p align=center>`Awesome Deep learning-based compressed sensing-MRI`</p> # 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mosaf/Awesome-DL-based-CS-MRI) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-:fire::fire: This is a collection of awesome articles about deep learning in MRI reconstruction:fire::fire:
+# :fire::fire: **This is a collection of awesome articles about deep learning in MRI reconstruction**:fire::fire:
 
-- Our survey paper on MedIA: [Deep learning-based compressed sensing magnetic resonance imaging: a systematic revie](coming soon) :heart:
+[//]: # (- Our survey paper on MedIA: [Deep learning-based compressed sensing magnetic resonance imaging: a systematic revie]&#40;coming soon&#41; :heart:)
 - Our survey paper on arXiv: [Deep learning-based compressed sensing magnetic resonance imaging: a systematic revie](coming soon) :heart:
 
 #### Citation
@@ -22,23 +22,14 @@
 
 ## Updates
 
-[//]: # (- **Fourth release:** Coming soon!)
 
-[//]: # (- We have now achieved more than 1K stars 🌟—thank you community for your support! If you're interested in contributing to this repository, please don't hesitate to send me a message. Thank you!)
-
-[//]: # (- Check out our new paper accepted in MICCAI 2023 PRIME Workshop: [DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation]&#40;https://arxiv.org/abs/2308.02959&#41; 🥳)
-
-[//]: # (- **Third release:** June 3, 2023)
-
-[//]: # (- :sunglasses: April 8, 2023: Our paper is accepted for publication in the **Medical Image Analysis Journal &#40;IF: 13.83&#41;** :sunglasses:)
-
-[//]: # (- **Second release:** March 29, 2023)
 - **First release:** April 14, 2024
 
 ## Contents
 
 [//]: # (- [Survey Papers]&#40;#survey-papers&#41;)
 
+- [Tutorials](#tutorials)
 - [Papers](#papers)
   - [End-to-end](#End-to-end)
   - [Unroll models](#unroll-models)
@@ -48,8 +39,22 @@
   - [Federated learning](#Federated-Learning)
 - [Dataset](#dataset)
 
+# Tutorials
+### GitHub and GoogleColab
 
-## Papers
+* [**MRI acquisition & image reconstruction**](https://github.com/philouc/mri_acq_recon_tutorial)
+* [**MRI Reconstruction Using GRAPPA**](https://github.com/tetianadadakova/Tutorial-MRI-Reconstruction-Using-GRAPPA)
+* [**Unrolled network on complex-valued data with complex-valued**](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/tutorial_reconstruction_complex.ipynb#scrollTo=Rx0c4JCcC8OA)
+* [**CMR Deep learning reconstruction**](https://ismrm-mit-cmr.github.io/CMR-DL-challenge/)
+
+
+### YouTube
+* [**Dynamic MRI Reconstruction**](https://www.youtube.com/watch?v=ku7yZcahciU)
+* [**Deep dive into non-Cartesian reconstruction with BART**](https://www.youtube.com/watch?v=usAI5S6OPuc)
+* [**Deep dive into 3D Cartesian reconstruction with BART**](https://www.youtube.com/watch?v=nBqECv531CU)
+
+
+# Papers
 
 ### End-to-end
 
@@ -334,6 +339,12 @@
 
 
 
+**Learning Data Consistency and its Application to Dynamic MR Imaging** \
+*Jing Cheng, Zhuo-Xu Cui, Wenqi Huang, Ziwen Ke, Leslie Ying, Haifeng Wang, Yanjie Zhu, and Dong Liang* \
+[12 July 2021] [Magn. Reson. in Med.] \
+[[Paper](https://doi.org/10.1109/TMI.2021.3096232)]
+
+
 
 **Systematic evaluation of iterative deep neural networks for fast parallel MRI reconstruction with sensitivity-weighted coil combination** \
 *Hammernik, Kerstin, Jo Schlemper, Chen Qin, Jinming Duan, Ronald M. Summers, and Daniel Rueckert* \
@@ -376,6 +387,13 @@
 
 
 
+**Self-supervised learning of physics-guided reconstruction neural networks without fully sampled reference data** \
+*Burhaneddin Yaman, Seyed Amir Hossein Hosseini, Steen Moeller, Jutta Ellermann, Kâmil Uğurbil, and Mehmet Akçakaya* \
+[02 July 2020] [Magn. Reson. in Med.]<br>
+[[Paper](https://doi.org/10.1002/mrm.28378)] [[Github](https://github.com/byaman14/SSDU)]
+
+
+
 
 
 
@@ -411,10 +429,89 @@
 
 #### DC layer
 
+
+
+**Deep-learning-based reconstruction of undersampled MRI to reduce scan times: a multicentre, retrospective, cohort study** \
+*Aditya Rastogi, Gianluca Brugnara, Martha Foltyn-Dumitru, Mustafa Ahmed Mahmutoglu, Chandrakanth J Preetha, Erich Kobler, Irada Pflüger, et al.* \
+[26 February 2024] [The Lancet Oncology]<br>
+[[Paper](https://doi.org/10.1016/S1470-2045(23)00641-1)] 
+
+
+
+
 **DCT-net: Dual-domain cross-fusion transformer network for MRI reconstruction** \
 *Wang, Bin, Yusheng Lian, Xingchuang Xiong, Han Zhou, Zilong Liu, and Xiaohao Zhou* \
 [17 January 2024] [MRI]<br>
 [[Paper](https://doi.org/10.1016/j.mri.2024.01.007)]
+
+
+**Encoding Enhanced Complex CNN for Accurate and Highly Accelerated MRI** \
+*Li, Zimeng, Sa Xiao, Cheng Wang, Haidong Li, Xiuchao Zhao, Caohui Duan, Qian Zhou et al.* \
+[09 January 2024] [TMI]<br>
+[[Paper](https://doi.org/10.1109/TMI.2024.3351211)] [[Github](https://github.com/zimli/EN2-convolution-network)] 
+
+
+
+
+**Joint MAPLE: Accelerated joint T1 and T2s mapping with scan-specific Self-supervised networks** \
+*Amir Heydari, Abbas Ahmadi, Tae Hyung Kim, and Berkin Bilgic* \
+[05 January 2024] [Magn. Reson. in Med.]<br>
+[[Paper](https://doi.org/10.1002/mrm.29989)] [[Github](https://github.com/AmirHeydariGit/joint_maple/tree/main)] 
+
+
+**IMJENSE: Scan-specific Implicit Representation for Joint Coil Sensitivity and Image Estimation in Parallel MRI** \
+*Ruimin Feng, Qing Wu, Jie Feng, Huajun She, Chunlei Liu, Yuyao Zhang, and Hongjiang Wei* \
+[13 December 2023] [TMI]<br>
+[[Paper](https://doi.org/10.1109/TMI.2023.3342156)] [[Github](https://github.com/AMRI-Lab/IMJENSE)]
+
+
+**McSTRA: A multi-branch cascaded swin transformer for point spread function-guided robust MRI reconstruction** \
+*Mevan Ekanayake, Kamlesh Pawar, Mehrtash Harandi, Gary Egan, and Zhaolin Chen* \
+[13 December 2023] [Computers in Biology and Medicine]<br>
+[[Paper](https://doi.org/10.1016/j.compbiomed.2023.107775)]
+
+
+
+**DC-SiamNet: Deep contrastive Siamese network for self-supervised MRI reconstruction** \
+*Yanghui Yan, Tiejun Yang, Xiang Zhao, Chunxia Jiao, Aolin Yang, and Jianyu Miao* \
+[28 October 2023] [Computers in Biology and Medicine]<br>
+[[Paper](https://doi.org/10.1016/j.compbiomed.2023.107619)]
+
+
+**Adaptive diffusion priors for accelerated MRI reconstruction** \
+*Alper Güngör, Salman UH Dar, Şaban Öztürk, Yilmaz Korkmaz, Hasan A. Bedel, Gokberk Elmas, Muzaffer Ozbey, and Tolga Çukur* \
+[20 June 2023] [Medical Image Analysis]<br>
+[[Paper](https://doi.org/10.1016/j.media.2023.102872)] [[Github](https://github.com/icon-lab/AdaDiff)]
+
+
+
+**Deep learning based MRI reconstruction with transformer** \
+*Zhengliang Wu, Weibin Liao, Chao Yan, Mangsuo Zhao, Guowen Liu, Ning Ma, and Xuesong Li* \
+[01 March 2023] [Computer Methods and Programs in Biomedicine]<br>
+[[Paper](https://doi.org/10.1016/j.cmpb.2023.107452)] [[Github](https://github.com/BITwzl/KTMR)]
+
+
+**Deep compressed sensing MRI via a gradient-enhanced fusion model** \
+*Yuxiang Dai, Chengyan Wang, and He Wang* \
+[25 January 2023] [Med. Phys.]<br>
+[[Paper](https://doi.org/10.1002/mp.16164)]
+
+
+
+
+**A Conditional Normalizing Flow for Accelerated Multi-Coil MR Imaging** \
+*Jeffrey Wen, Rizwan Ahmad, and Philip Schniter* \
+[02 June 2023] [ICML]<br>
+[[Paper](https://doi.org/10.48550/arXiv.2306.01630)] [[Github](https://github.com/jwen307/mri_cnf)]
+
+
+**Accelerated respiratory-resolved 4D-MRI with separable spatio-temporal neural networks** \
+*Maarten L. Terpstra, Matteo Maspero, Joost J. C. Verhoeff, and Cornelis A. T. van den Berg* \
+[01 August 2023] [Med. Phys.]<br>
+[[Paper](https://doi.org/10.1002/mp.16643)] [[Github](https://gitlab.com/computational-imaging-lab/modest)]
+
+
+
 
 
 **Deep supervised dictionary learning by algorithm unrolling-Application to fast 2D dynamic MR image reconstruction** \
@@ -423,20 +520,137 @@
 [[Paper](https://doi.org/10.1002/mp.16182)] [[Github](https://github.com/koflera/End2End-DLMRI?tab=readme-ov-file)]
 
 
+**Parallel non-Cartesian spatial-temporal dictionary learning neural networks (stDLNN) for accelerating 4D-MRI** \
+*Zhijun Wang, Huajun She, Yufei Zhang, and Yiping P. Du* \
+[24 November 2022] [Medical Image Analysis]<br>
+[[Paper](https://doi.org/10.1016/j.media.2022.102701)] [[Github](https://github.com/mrieeart/stDLNN)]
+
+
+**Exploring the Acceleration Limits of Deep Learning Variational Network-based Two-dimensional Brain MRI** \
+*Alireza Radmanesh, Matthew J. Muckley , Tullie Murrell, Emma Lindsey, Anuroop Sriram, Florian Knoll, Daniel K. Sodickson, and Yvonne W. Lui* \
+[02 November 2022] [Radiology]<br>
+[[Paper](https://doi.org/10.1148/ryai.210313)] 
+
+
+
+
 **DSMENet: Detail and Structure Mutually Enhancing Network for under-sampled MRI reconstruction** \
 *Wang, Yueze, Yanwei Pang, and Chuan Tong* \
 [13 October 2022] [Computers in Biology and Medicine]<br>
 [[Paper](https://doi.org/10.1016/j.compbiomed.2022.106204)]
 
 
+**Assessment of data consistency through cascades of independently recurrent inference machines for fast and robust accelerated MRI reconstruction** \
+*D Karkalousos, S Noteboom, H E Hulst, F M Vos, and M W A Caan* \
+[08 June 2022] [PMB]<br>
+[[Paper](https://doi.org/10.1088/1361-6560/ac6cc2)] [[Github](https://github.com/wdika/mridc)]
+
+
+**Pyramid Convolutional RNN for MRI Image Reconstruction** \
+*Eric Z. Chen, Puyang Wang, Xiao Chen, Terrence Chen, and Shanhui Sun* \
+[22 February 2022] [TMI] \
+[[Paper](https://doi.org/10.1109/TMI.2022.3153849)] [[Github](https://github.com/js3611/Deep-MRI-Reconstruction)]
+
+
+
+**Complementary time-frequency domain networks for dynamic parallel MR image reconstruction** \
+*Chen Qin, Jinming Duan, Kerstin Hammernik, Jo Schlemper, Thomas Küstner, René Botnar, Claudia Prieto, Anthony N. Price, Joseph V. Hajnal, and Daniel Rueckert* \
+[13 July 2021] [Magn. Reson. in Med.] \
+[[Paper](https://doi.org/10.1002/mrm.28917)] [[Github](https://github.com/cq615/kt-Dynamic-MRI-Reconstruction)]
+
+
+
+
+**A deep cascade of ensemble of dual domain networks with gradient-based T1 assistance and perceptual refinement for fast MRI reconstruction** \
+*Balamurali Murugesan, Sriprabha Ramanarayanan, Sricharan Vijayarangan, Keerthi Ram, Naranamangalam R Jagannathan, and Mohanasankar Sivaprakasam* \
+[24 May 2021] [CMIG] \
+[[Paper](https://doi.org/10.1016/j.compmedimag.2021.101942)]
+
+
+
+
+
+**Accelerating quantitative MR imaging with the incorporation of B1 compensation using deep learning** \
+*Yan Wu, Yajun Ma, Jiang Du, and Lei Xing* \
+[29 June 2020] [MRI] \
+[[Paper](https://doi.org/10.1016/j.mri.2020.06.011)]
+
+
+
+
+**DeepcomplexMRI: Exploiting deep residual network for fast Parallel MR imaging with complex convolution** \
+*Shanshan Wang, Huitao Cheng, Leslie Ying, Taohui Xiao, Ziwen Ke, Hairong Zheng, and Dong Liang* \
+[08 February 2020] [MRI] \
+[[Paper](https://doi.org/10.1016/j.mri.2020.02.002)]
+
+
+
+
+
+**Highly undersampled magnetic resonance imaging reconstruction using autoencoding priors** \
+*Qiegen Liu, Qingxin Yang, Huitao Cheng, Shanshan Wang, Minghui Zhang, and Dong Liang* \
+[20 August 2019] [Magn. Reson. in Med.] \
+[[Paper](https://doi.org/10.1002/mrm.27921)] 
+
+
+
+**Self-Attention Convolutional Neural Network for Improved MR Image Reconstruction** \
+*Yan Wu, Yajun Ma, Jing Liu, Jiang Du, and Lei Xing* \
+[01 April 2019] [Information Science] \
+[[Paper](https://doi.org/10.1016/j.ins.2019.03.080)] 
+
+
+
+**A Deep Cascade of Convolutional Neural Networks for Dynamic MR Image Reconstruction** \
+*Jo Schlemper, Jose Caballero, Joseph V. Hajnal, Anthony N. Price, and Daniel Rueckert* \
+[13 October 2017] [TMI] \
+[[Paper](https://doi.org/10.1109/TMI.2017.2760978)]  [[Github](https://github.com/js3611/Deep-MRI-Reconstruction)]
+
+
+
+
+
 ---
 
 #### Self-supervise
 
-**DC-SiamNet: Deep contrastive Siamese network for self-supervised MRI reconstruction.** \
-*Yan, Yanghui, Tiejun Yang, Xiang Zhao, Chunxia Jiao, Aolin Yang, and Jianyu Miao* \
-[28 October 2023] [Computers in Biology and Medicine] \
-[[Paper](https://doi.org/10.1016/j.compbiomed.2023.107619)] [[GitHub](-)]
+
+
+**Joint MAPLE: Accelerated joint T1 and T2s mapping with scan-specific Self-supervised networks** \
+*Amir Heydari, Abbas Ahmadi, Tae Hyung Kim, and Berkin Bilgic* \
+[05 January 2024] [Magn. Reson. in Med.]<br>
+[[Paper](https://doi.org/10.1002/mrm.29989)] [[Github](https://github.com/AmirHeydariGit/joint_maple/tree/main)] 
+
+
+**DC-SiamNet: Deep contrastive Siamese network for self-supervised MRI reconstruction** \
+*Yanghui Yan, Tiejun Yang, Xiang Zhao, Chunxia Jiao, Aolin Yang, and Jianyu Miao* \
+[28 October 2023] [Computers in Biology and Medicine]<br>
+[[Paper](https://doi.org/10.1016/j.compbiomed.2023.107619)]
+
+
+**Noise2Recon: Enabling SNR-robust MRI reconstruction with semi-supervised and self-supervised learning** \
+*Desai, Arjun D., Batu M. Ozturkler, Christopher M. Sandino, Robert Boutin, Marc Willis, Shreyas Vasanawala, Brian A. Hargreaves, Christopher Ré, John M. Pauly, and Akshay S. Chaudhari* \
+[10 July 2023] [Magn. Reson. in Med.]<br>
+[[Paper](https://doi.org/10.1002/mrm.29759)] [[Github](https://github.com/ad12/meddlr)]
+
+
+**Dual-domain self-supervised learning for accelerated non-Cartesian MRI reconstruction** \
+*Bo Zhou, Jo Schlemper, Neel Dey, Seyed Sadegh Mohseni Salehi, Kevin Sheth, Chi Liu, James S. Duncan, and Michal Sofka* \
+[18 July 2022] [Medical Image Analysis]<br>
+[[Paper](https://doi.org/10.1016/j.media.2022.102538)] [[Github](https://github.com/ad12/meddlr)]
+
+
+**Magnetic resonance parameter mapping using model-guided self-supervised deep learning** \
+*Liu, Fang, Richard Kijowski, Georges El Fakhri, and Li Feng* \
+[19 January 2021] [Magn. Reson. in Med.]<br>
+[[Paper](https://doi.org/10.1002/mrm.28659)]
+
+
+
+
+
+
+
 
 ---
 
@@ -470,6 +684,12 @@
 *Guo, Pengfei, Puyang Wang, Jinyuan Zhou, Shanshan Jiang, and Vishal M. Patel* \
 [10 March 2021] [CVPR]<br>
 [[Paper](https://doi.org/10.48550/arXiv.2103.02148)] [[Github](https://github.com/guopengf/FL-MRCM)]
+
+
+**Self-supervised learning of physics-guided reconstruction neural networks without fully sampled reference data** \
+*Burhaneddin Yaman, Seyed Amir Hossein Hosseini, Steen Moeller, Jutta Ellermann, Kâmil Uğurbil, and Mehmet Akçakaya* \
+[02 July 2020] [Magn. Reson. in Med.]<br>
+[[Paper](https://doi.org/10.1002/mrm.28378)] [[Github](https://github.com/byaman14/SSDU)]
 
 
 
