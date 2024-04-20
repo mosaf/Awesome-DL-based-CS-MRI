@@ -431,6 +431,13 @@
 
 
 
+**DIRECTION: Deep cascaded reconstruction residual-based feature modulation network for fast MRI reconstruction** \
+*Yong Sun , Xiaohan Liu, Yiming Liu, Ruiqi Jin, and Yanwei Pang* \
+[18 April 2024] [MRI]<br>
+[[Paper](https://doi.org/10.1016/S1470-2045(23)00641-1)] 
+
+
+
 **Deep-learning-based reconstruction of undersampled MRI to reduce scan times: a multicentre, retrospective, cohort study** \
 *Aditya Rastogi, Gianluca Brugnara, Martha Foltyn-Dumitru, Mustafa Ahmed Mahmutoglu, Chandrakanth J Preetha, Erich Kobler, Irada Pflüger, et al.* \
 [26 February 2024] [The Lancet Oncology]<br>
