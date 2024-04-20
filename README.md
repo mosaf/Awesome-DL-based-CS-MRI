@@ -434,7 +434,7 @@
 **DIRECTION: Deep cascaded reconstruction residual-based feature modulation network for fast MRI reconstruction** \
 *Yong Sun , Xiaohan Liu, Yiming Liu, Ruiqi Jin, and Yanwei Pang* \
 [18 April 2024] [MRI]<br>
-[[Paper](https://doi.org/10.1016/S1470-2045(23)00641-1)] 
+[[Paper](https://doi.org/10.1016/j.mri.2024.04.023)] 
 
 
 
