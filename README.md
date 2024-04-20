@@ -700,7 +700,7 @@
 
 ### fastMRI Dataset
 *Center for Advanced Imaging Innovation and Research (CAI2R), Department of Radiology at NYU School of Medicine and NYU Langone Health* \
-[[Dataset](https://fastmri.med.nyu.edu/)] [[Github](https://github.com/facebookresearch/fastMRI)] `Multi-coil raw k-space data` <br>
+`Multi-coil raw k-space data` [[Dataset](https://fastmri.med.nyu.edu/)] [[Github](https://github.com/facebookresearch/fastMRI)] <br>
 * Imaging region
   *  Brain
   * Knee
@@ -708,7 +708,7 @@
 
 ### IXI Dataset
 *Imperial College London* \
-[[Dataset](https://brain-development.org/ixi-dataset/)] `Single-coil magnitude image data` <br>
+`Single-coil magnitude image data` [[Dataset](https://brain-development.org/ixi-dataset/)] <br>
 * Imaging region
   *  Brain
 
@@ -716,7 +716,7 @@
 
 ### BraTS Dataset
 *multi-institutional* \
-[[Dataset](http://braintumorsegmentation.org/)] `Single-coil magnitude image data` <br>
+`Single-coil magnitude image data` [[Dataset](http://braintumorsegmentation.org/)] <br>
 * Imaging region
   *  Brain
 
@@ -724,14 +724,14 @@
 
 ### Atria Segmentation Challenge
 
-[[Dataset](https://www.cardiacatlas.org/atriaseg2018-challenge/)] `Single-coil magnitude image data` <br>
+`Single-coil magnitude image data` [[Dataset](https://www.cardiacatlas.org/atriaseg2018-challenge/)] <br>
 * Imaging region
   *  Cardiac
 
 
 ### Cardiovascular Magnetic Resonance Imaging
 
-[[Dataset](https://github.com/MRIOSU/OCMR?tab=readme-ov-file)] `Multi-coil raw k-space data` <br>
+`Multi-coil raw k-space data` [[Dataset](https://github.com/MRIOSU/OCMR?tab=readme-ov-file)] <br>
 * Imaging region
   *  Cardiovascular
 
@@ -739,7 +739,7 @@
 
 ### MRIdata
 
-[[Dataset](http://mridata.org/)] `Multi-coil raw k-space data` <br>
+`Multi-coil raw k-space data` [[Dataset](http://mridata.org/)] <br>
 * **Imaging region**
   *  Knee
 
