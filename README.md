@@ -429,6 +429,10 @@
 
 #### DC layer
 
+**MLMFNet: A multi-level modality fusion network for multi-modal accelerated MRI reconstruction** \
+*Xiuyun Zhou, Zhenxi Zhang, Hongwei Du, Bensheng Qiu* \
+[24 April 2024] [MRI]<br>
+[[Paper](https://doi.org/10.1016/j.mri.2024.04.028)] 
 
 
 **DIRECTION: Deep cascaded reconstruction residual-based feature modulation network for fast MRI reconstruction** \
