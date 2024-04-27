@@ -32,7 +32,7 @@
 - [Tutorials](#tutorials)
 - [Papers](#papers)
   - [End-to-end](#End-to-end)
-  - [Unroll models](#unroll-models)
+  - [Unroll models](#unroll-model)
     - [Unroll optimization](#Unroll-optimization)
     - [DC layers](#DC-layer)
   - [Self-supervised](#Self-supervise)
@@ -242,7 +242,10 @@
 [05 February 2024] [J-BHI] \
 [[Paper](https://doi.org/10.1109/JBHI.2024.3360128)] 
 
-
+**Predictive uncertainty in deep learning–based MR image reconstruction using deep ensembles: Evaluation on the fastMRI data set** \
+*Thomas Küstner, Kerstin Hammernik, Daniel Rueckert, Tobias Hepp, Sergios Gatidis* \
+[28 January 2024] [Magn. Reson. in Med.] \
+[[Paper](https://doi.org/10.1002/mrm.30030)]  [[Github](https://github.com/midas-tum/recon_uncertainty)]
 
 **On retrospective k-space subsampling schemes for deep MRI reconstruction** \
 *George Yiasemis, Clara I. Sánchez, Jan-Jakob Sonke, and Jonas Teuwen* \
