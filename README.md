@@ -230,6 +230,13 @@
 ### Unroll model
 #### Unroll optimization
 
+**Feasibility of Artificial Intelligence Constrained Compressed SENSE Accelerated 3D Isotropic T1 VISTA Sequence For Vessel Wall MR Imaging: Exploring the Potential of Higher Acceleration Factors Compared to Traditional Compressed SENSE** \
+*Yue Ma, Mengmeng Wang, Yuting Qiao, Yafei Wen, Yi Zhu, Ke Jiang, Jianxiu Lian, Dan Tong* \
+[24 April 2024] [Academic Radiology] \
+[[Paper](https://doi.org/10.1016/j.acra.2024.03.041)] 
+
+
+
 **A Faithful Deep Sensitivity Estimation for Accelerated Magnetic Resonance Imaging** \
 *Wang, Zi, Haoming Fang, Chen Qian, Boxuan Shi, Lijun Bao, Liuhong Zhu, Jianjun Zhou, and Xiaobo Qu* \
 [05 February 2024] [J-BHI] \
