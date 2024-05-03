@@ -10,14 +10,14 @@
 
 #### Citation
 ```python
-@article{safari2024dlcsmri,
-  title={Deep learning-based compressed sensing magnetic resonance imaging: a systematic review},
-  author={Safari, Mojtaba and Eidex, Zach and ...  and Yang, Xiaofeng},
-  journal={Soon},
-  pages={Soon},
-  year={Soon},
-  publisher={Soon}
-}
+@article{safari2024fast,
+      title={Fast MRI Reconstruction Using Deep Learning-based Compressed Sensing: A Systematic Review}, 
+      author={Mojtaba Safari and Zach Eidex and Chih-Wei Chang and Richard L. J. Qiu and Xiaofeng Yang},
+      year={2024},
+      eprint={2405.00241},
+      archivePrefix={arXiv},
+      primaryClass={physics.med-ph}
+        }
 ```
 
 ## Updates
