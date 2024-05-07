@@ -230,6 +230,18 @@
 ### Unroll model
 #### Unroll optimization
 
+
+**Score-based Generative Priors Guided Model-driven Network for MRI Reconstruction** \
+*Xiaoyu Qiao, Weisheng Li, Yuping Huang and Lijian Yang* \
+[5 May 2024] [preprint arXiv] \
+[[Paper](https://arxiv.org/pdf/2405.02958)] 
+
+**A Collaborative Model-driven Network for MRI Reconstruction** \
+*Xiaoyu Qiao, Weisheng Lia, Guofen Wan, and Yuping Huang* \
+[5 May 2024] [preprint arXiv] \
+[[Paper](https://arxiv.org/pdf/2402.03383v2)] 
+
+
 **Feasibility of Artificial Intelligence Constrained Compressed SENSE Accelerated 3D Isotropic T1 VISTA Sequence For Vessel Wall MR Imaging: Exploring the Potential of Higher Acceleration Factors Compared to Traditional Compressed SENSE** \
 *Yue Ma, Mengmeng Wang, Yuting Qiao, Yafei Wen, Yi Zhu, Ke Jiang, Jianxiu Lian, Dan Tong* \
 [24 April 2024] [Academic Radiology] \
