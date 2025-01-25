@@ -1,4 +1,4 @@
-# <p align=center>`Awesome Deep learning-based compressed sensing-MRI`</p> # 
+# <p align=center>`Awesome Deep learning-based MRI Reconstruction`</p> # 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mosaf/Awesome-DL-based-CS-MRI) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
