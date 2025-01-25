@@ -6,25 +6,24 @@
 :fire::fire: This is a collection of awesome articles about deep learning in MRI reconstruction:fire::fire:
 
 [//]: # (- Our survey paper on MedIA: [Deep learning-based compressed sensing magnetic resonance imaging: a systematic revie]&#40;coming soon&#41; :heart:)
-- Our survey paper on arXiv: [Deep learning-based compressed sensing magnetic resonance imaging: a systematic revie](coming soon) :heart:
+- Our survey paper on arXiv: [Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration](coming soon) :heart:
+
 
 #### Citation
 ```python
 @article{safari2024fast,
-      title={Fast MRI Reconstruction Using Deep Learning-based Compressed Sensing: A Systematic Review}, 
-      author={Mojtaba Safari and Zach Eidex and Chih-Wei Chang and Richard L. J. Qiu and Xiaofeng Yang},
-      year={2024},
-      eprint={2405.00241},
+      title={Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration}, 
+      author={Mojtaba Safari and Zach Eidex and Chih-Wei Chang and Richard L. J. Qiu, and Xiaofeng Yang},
+      year={2025},
       archivePrefix={arXiv},
-      primaryClass={physics.med-ph}
         }
 ```
-
+![Overview](./figures/overview.svg)
 ## Updates
 
 
 - **First release:** April 14, 2024
-
+- **Second release:** January 25, 2025
 ## Contents
 
 [//]: # (- [Survey Papers]&#40;#survey-papers&#41;)
@@ -32,7 +31,7 @@
 - [Tutorials](#tutorials)
 - [Papers](#papers)
   - [End-to-end](#End-to-end)
-  - [Unroll models](#unroll-model)
+  - [Unrolled models](#unroll-model)
     - [Unroll optimization](#Unroll-optimization)
     - [DC layers](#DC-layer)
   - [Self-supervised](#Self-supervise)
@@ -59,12 +58,23 @@
 ### End-to-end
 
 
+
+
+**Deep unfolding network with spatial alignment for multi-modal MRI reconstruction** \
+*Hao Zhang, Qi Wang, Jun Shi, Shihui Ying, and Zhijie Wen* \
+[05 February 2024] [Medical Image Analysis]<br>
+[[Paper](https://doi.org/10.1016/j.media.2024.103331)]
+
+
 **NPB-REC: A non-parametric Bayesian deep-learning approach for undersampled MRI reconstruction with uncertainty estimation** \
 *Khawaled, Samah, and Moti Freiman* \
 [05 February 2024] [Magn. Reson. in Med.]<br>
 [[Paper](https://doi.org/10.1016/j.artmed.2024.102798)] [[Github](https://github.com/samahkh/NPB-REC)]
 
-
+**FEFA: Frequency Enhanced Multi-Modal MRI Reconstruction With Deep Feature Alignment** \
+*Xuanmin Chen, Liyan Ma, Shihui Ying, Dinggang Shen, and Tieyong Zeng* \
+[2024] [JBHI]<br>
+[[Paper](https://doi.org/10.1109/JBHI.2024.3432139)] 
 
 **High-Frequency Space Diffusion Models for Accelerated MRI** \
 *Cao, Chentao, Zhuo-Xu Cui, Yue Wang, Shaonan Liu, Taijin Chen, Hairong Zheng, Dong Liang, and Yanjie Zhu* \
@@ -149,6 +159,7 @@
 [08 December 2022] [Magn. Reson. in Med.]<br>
 [[Paper](https://doi.org/10.1002/mrm.29556)]
 
+
 **SuperMAP: Deep ultrafast MR relaxometry with joint spatiotemporal undersampling** \
 *Li, Hongyu, Mingrui Yang, Jee Hun Kim, Chaoyi Zhang, Ruiying Liu, Peizhou Huang, Dong Liang, Xiaoliang Zhang, Xiaojuan Li, and Leslie Ying* \
 [21 September 2022] [Magn. Reson. Med.]<br>
@@ -178,6 +189,12 @@
 *Du, Tianming, Honggang Zhang, Yuemeng Li, Stephen Pickup, Mark Rosen, Rong Zhou, Hee Kwon Song, and Yong Fan* \
 [16 May 2021] [Med. Image Anal.]<br>
 [[Paper](https://doi.org/10.1016/j.media.2021.102098)] [[Github](https://gitlab.com/qgpmztmf/acnn-k-space)]
+
+
+**Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers** \
+*Yilmaz Korkmaz, Salman U. H. Dar, Mahmut Yurt, Muzaffer Özbey, Tolga Çukur* \
+[27 January 2022] [TMI]<br>
+[[Paper](https://doi.org/10.1109/TMI.2022.3147426)] [[Github](https://github.com/icon-lab/SLATER)]
 
 
 
@@ -227,8 +244,15 @@
 
 
 ---
-### Unroll model
-#### Unroll optimization
+### Unrolled model
+#### Unrolled optimization
+
+**CineVN: Variational network reconstruction for rapid functional cardiac cine MRI** \
+*Marc Vornehm, Jens Wetzl, Daniel Giese, Florian Fürnrohr, Jianing Pang, Kelvin Chow, Rolf Gebker, Rizwan Ahmad, and Florian Knoll* \
+[28 October 2024] [Magn. Reson. in Med.] \
+[[Paper](https://doi.org/10.1002/mrm.30260)] 
+
+
 
 
 **Score-based Generative Priors Guided Model-driven Network for MRI Reconstruction** \
@@ -244,10 +268,13 @@
 
 **Feasibility of Artificial Intelligence Constrained Compressed SENSE Accelerated 3D Isotropic T1 VISTA Sequence For Vessel Wall MR Imaging: Exploring the Potential of Higher Acceleration Factors Compared to Traditional Compressed SENSE** \
 *Yue Ma, Mengmeng Wang, Yuting Qiao, Yafei Wen, Yi Zhu, Ke Jiang, Jianxiu Lian, Dan Tong* \
-[24 April 2024] [Academic Radiology] \
+[04 March 2024] [Academic Radiology] \
 [[Paper](https://doi.org/10.1016/j.acra.2024.03.041)] 
 
-
+**Ferumoxytol-Enhanced Cardiac Cine MRI Reconstruction Using a Variable-Splitting Spatiotemporal Network** \
+*Chang Gao, Zhengyang Ming, Kim-Lien Nguyen, Jianing Pang, Arash Bedayat, Brian M. Dale, Xiaodong Zhong, and J. Paul Finn* \
+[05 February 2024] [JMRI]<br>
+[[Paper](https://doi.org/10.1002/jmri.29295)]
 
 **A Faithful Deep Sensitivity Estimation for Accelerated Magnetic Resonance Imaging** \
 *Wang, Zi, Haoming Fang, Chen Qian, Boxuan Shi, Lijun Bao, Liuhong Zhu, Jianjun Zhou, and Xiaobo Qu* \
@@ -442,14 +469,28 @@
 
 
 
-
-
-
-
-
 ---
 
 #### DC layer
+
+**Unsupervised reconstruction of accelerated cardiac cine MRI using neural fields** \
+*Tabita Catalán, Matías Courdurier, Axel Osses, Anastasia Fotaki, René Botnar, Francisco Sahli-Costabal, and Claudia Prieto* \
+[12 December 2024] [Computers in Biology and Medicine]<br>
+[[Paper](https://doi.org/10.1016/j.compbiomed.2024.109467)] 
+
+
+**CRNN-Refined Spatiotemporal Transformer for Dynamic MRI reconstruction** \
+*Bin Wang, Yusheng Lian, Xingchuang Xiong, Hongbin Han, and Zilong Liu* \
+[13 September 2024] [Computers in Biology and Medicine]<br>
+[[Paper](https://doi.org/10.1016/j.compbiomed.2024.109133)][[Github](https://github.com/XWangBin/CST-Net)] 
+
+
+**SPICER: Self-supervised learning for MRI with automatic coil sensitivity estimation and reconstruction** \
+*Yuyang Hu, Weijie Gan, Chunwei Ying, Tongyao Wang, Cihat Eldeniz, Jiaming Liu, Yasheng Chen, Hongyu An, and Ulugbek S. Kamilov* \
+[23 June 2024] [Magn. Reson. in Med.]<br>
+[[Paper](https://doi.org/10.1002/mrm.30121)] 
+
+
 
 **MLMFNet: A multi-level modality fusion network for multi-modal accelerated MRI reconstruction** \
 *Xiuyun Zhou, Zhenxi Zhang, Hongwei Du, Bensheng Qiu* \
@@ -461,6 +502,16 @@
 *Yong Sun , Xiaohan Liu, Yiming Liu, Ruiqi Jin, and Yanwei Pang* \
 [18 April 2024] [MRI]<br>
 [[Paper](https://doi.org/10.1016/j.mri.2024.04.023)] 
+
+**Attention-Based MultiOffset Deep Learning Reconstruction of Chemical Exchange Saturation Transfer (AMO-CEST) MRI** \
+*Zhikai Yang, Dinggang Shen, Kannie W. Y. Chan, and Jianpan Huang* \
+[22 May 2024] [J-HBI] \
+[[Paper](https://doi.org/10.1109/JBHI.2024.3404225)] 
+
+**MRI reconstruction with enhanced self-similarity using graph convolutional network** \
+*Yong Sun , Xiaohan Liu, Yiming Liu, Ruiqi Jin, and Yanwei Pang* \
+[17 March 2023] [BMC Medical Imaging]<br>
+[[Paper](https://doi.org/10.1186/s12880-024-01297-2)] 
 
 
 
