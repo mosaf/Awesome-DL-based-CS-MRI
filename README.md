@@ -58,6 +58,29 @@
 ### End-to-end
 
 
+**AutoSamp: Autoencoding k-Space Sampling via Variational Information Maximization for 3D MRI** \
+*Cagan Alkan, Morteza Mardani, Congyu Liao, Zhitao Li, Shreyas S. Vasanawala, and John M. Pauly* \
+[15 August 2024] [TMI]<br>
+[[Paper](https://doi.org/10.1109/TMI.2024.3443292)] [[Github](https://github.com/alkanc/autosamp)] 
+
+
+
+**Highly-accelerated CEST MRI using frequency-offset-dependent k-space sampling and deep-learning reconstruction** \
+*Chuyu Liu, Zhongsen Li, Zhensen Chen, Benqi Zhao, Zhuozhao Zheng, and Xiaolei Song* \
+[16 April 2024] [Med. Res. in Med.]<br>
+[[Paper](https://doi.org/10.1002/mrm.30089)]
+
+
+**Paired conditional generative adversarial network for highly accelerated liver 4D MRI** \
+*Di Xu, Xin Miao, Hengjie Liu, Jessica E Scholey, Wensha Yang, Mary Feng, Michael Ohliger, Hui Lin, Yi Lao, and Yang Yang* \
+[17 June 2024] [PMB]<br>
+[[Paper](https://doi.org/10.1088/1361-6560/ad5489)]
+
+
+**DiffGAN: An adversarial diffusion model with local transformer for MRI reconstruction** \
+*Xiang Zhao, Tiejun Yang, Bingjie Li, Aolin Yang, Yanghui Yan, and Chunxia Jiao* \
+[15 March 2024] [MRI]<br>
+[[Paper](https://doi.org/10.1016/j.mri.2024.03.017)]
 
 
 **Deep unfolding network with spatial alignment for multi-modal MRI reconstruction** \
@@ -70,6 +93,13 @@
 *Khawaled, Samah, and Moti Freiman* \
 [05 February 2024] [Magn. Reson. in Med.]<br>
 [[Paper](https://doi.org/10.1016/j.artmed.2024.102798)] [[Github](https://github.com/samahkh/NPB-REC)]
+
+
+**Domain transformation learning for MR image reconstruction from dual domain input** \
+*Changheun Oh, Jun-Young Chung, and Yeji Han* \
+[3 February 2024] [Computers in Biology and Medicine]<br>
+[[Paper](https://doi.org/10.1016/j.compbiomed.2024.108098)][[Github](https://github.com/changheunoh/hybrid_eternet_fastmri)] 
+
 
 **FEFA: Frequency Enhanced Multi-Modal MRI Reconstruction With Deep Feature Alignment** \
 *Xuanmin Chen, Liyan Ma, Shihui Ying, Dinggang Shen, and Tieyong Zeng* \
@@ -240,19 +270,26 @@
 
 
 
-
-
-
 ---
 ### Unrolled model
 #### Unrolled optimization
+
+**An improved low-rank plus sparse unrolling network method for dynamic magnetic resonance imaging** \
+*Marc Vornehm, Jens Wetzl, Daniel Giese, Florian Fürnrohr, Jianing Pang, Kelvin Chow, Rolf Gebker, Rizwan Ahmad, and Florian Knoll* \
+[28 November 2024] [Med. Phys.] \
+[[Paper](https://doi.org/10.1002/mp.17501)]
+
+
 
 **CineVN: Variational network reconstruction for rapid functional cardiac cine MRI** \
 *Marc Vornehm, Jens Wetzl, Daniel Giese, Florian Fürnrohr, Jianing Pang, Kelvin Chow, Rolf Gebker, Rizwan Ahmad, and Florian Knoll* \
 [28 October 2024] [Magn. Reson. in Med.] \
 [[Paper](https://doi.org/10.1002/mrm.30260)] 
 
-
+**Adaptive Knowledge Distillation for High-Quality Unsupervised MRI Reconstruction With Model-Driven Priors** \
+*Xiaoyu Qiao, Weisheng Li, Yuping Huang and Lijian Yang* \
+[6 June 2024] [J-HBI] \
+[[Paper](https://doi.org/10.1109/JBHI.2024.3365784 )] [[Github](https://github.com/BITwzl/unsupervised_mri_reconstruction)]
 
 
 **Score-based Generative Priors Guided Model-driven Network for MRI Reconstruction** \
@@ -262,7 +299,7 @@
 
 **A Collaborative Model-driven Network for MRI Reconstruction** \
 *Xiaoyu Qiao, Weisheng Lia, Guofen Wan, and Yuping Huang* \
-[5 May 2024] [preprint arXiv] \
+[05 May 2024] [preprint arXiv] \
 [[Paper](https://arxiv.org/pdf/2402.03383v2)] 
 
 
@@ -270,6 +307,15 @@
 *Yue Ma, Mengmeng Wang, Yuting Qiao, Yafei Wen, Yi Zhu, Ke Jiang, Jianxiu Lian, Dan Tong* \
 [04 March 2024] [Academic Radiology] \
 [[Paper](https://doi.org/10.1016/j.acra.2024.03.041)] 
+
+
+**Improving quantitative MRI using self-supervised deep learning with model reinforcement: Demonstration for rapid T1 mapping** \
+*Wanyu Bian, Albert Jang, and Fang Liu* \
+[11 February 2024] [Med. Res. in Med.]<br>
+[[Paper](https://doi.org/10.1002/mrm.30045)]
+
+
+
 
 **Ferumoxytol-Enhanced Cardiac Cine MRI Reconstruction Using a Variable-Splitting Spatiotemporal Network** \
 *Chang Gao, Zhengyang Ming, Kim-Lien Nguyen, Jianing Pang, Arash Bedayat, Brian M. Dale, Xiaodong Zhong, and J. Paul Finn* \
@@ -479,6 +525,13 @@
 [[Paper](https://doi.org/10.1016/j.compbiomed.2024.109467)] 
 
 
+**Highly accelerated MRI via implicit neural representation guided posterior sampling of diffusion models** \
+*Jiayue Chu, Chenhe Du, Xiyue Lin, Xiaoqun Zhang, Lihui Wang, Yuyao Zhang, and Hongjiang Wei* \
+[23 November 202] [Medical Image Analysis]<br>
+[[Paper](https://doi.org/10.1016/j.media.2024.103398)] 
+
+
+
 **CRNN-Refined Spatiotemporal Transformer for Dynamic MRI reconstruction** \
 *Bin Wang, Yusheng Lian, Xingchuang Xiong, Hongbin Han, and Zilong Liu* \
 [13 September 2024] [Computers in Biology and Medicine]<br>
@@ -541,6 +594,13 @@
 *Amir Heydari, Abbas Ahmadi, Tae Hyung Kim, and Berkin Bilgic* \
 [05 January 2024] [Magn. Reson. in Med.]<br>
 [[Paper](https://doi.org/10.1002/mrm.29989)] [[Github](https://github.com/AmirHeydariGit/joint_maple/tree/main)] 
+
+
+
+**Multi-Contrast Complementary Learning for Accelerated MR Imaging** \
+*Bangjun Li, Weifeng Hu, Chun-Mei Feng, Yujun Li, Zhi Liu, and Yong Xu* \
+[29 December 2023] [J-BHI]<br>
+[[Paper](https://doi.org/10.1109/JBHI.2023.3348328)]
 
 
 **IMJENSE: Scan-specific Implicit Representation for Joint Coil Sensitivity and Image Estimation in Parallel MRI** \
@@ -740,10 +800,17 @@
 
 ### Federated Learning
 
+**Generalizable Reconstruction for Accelerating MR Imaging via Federated Learning With Neural Architecture Search** \
+*Ruoyou Wu, Cheng Li, Juan Zou, Xinfeng Liu, Hairong Zheng, and Shanshan Wang* \
+[22 July 2024] [TMI] \
+[[Paper](https://doi.org/10.1109/TMI.2024.3432388)] [[GitHub](https://github.com/ternencewu123/GAutoMRI)]
+
+
+
 **Adaptive channel-modulated personalized federated learning for magnetic resonance image reconstruction** \
 *Lyu, Jun, Yapeng Tian, Qing Cai, Chengyan Wang, and Jing Qin* \
 [16 August 2023] [Computers in Biology and Medicine] \
-[[Paper](https://doi.org/10.1016/j.compbiomed.2023.107330)] [[GitHub](https://github.com/)]
+[[Paper](https://doi.org/10.1016/j.compbiomed.2023.107330)] 
 
 **Federated End-to-End Unrolled Models for Magnetic Resonance Image Reconstruction** \
 *Levac, Brett R., Marius Arvinte, and Jonathan I. Tamir* \
@@ -789,6 +856,7 @@
   *  Brain
   * Knee
   * Prostate
+  * Breast
 
 ### IXI Dataset
 *Imperial College London* \
@@ -827,4 +895,15 @@
 * **Imaging region**
   *  Knee
 
+### Calgary-Campinas
 
+`Multi-coil raw k-space data` [[Dataset](https://www.ccdataset.com/)] <br>
+* **Imaging region**
+  *  Brain
+
+
+### K2S
+
+`Multi-coil raw k-space data` [[Dataset](https://k2s.grand-challenge.org/)] <br>
+* **Imaging region**
+  *  Knee
