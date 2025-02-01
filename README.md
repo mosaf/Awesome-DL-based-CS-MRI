@@ -6,17 +6,20 @@
 :fire::fire: This is a collection of awesome articles about deep learning in MRI reconstruction:fire::fire:
 
 [//]: # (- Our survey paper on MedIA: [Deep learning-based compressed sensing magnetic resonance imaging: a systematic revie]&#40;coming soon&#41; :heart:)
-- Our survey paper on arXiv: [Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration](coming soon) :heart:
+- Our survey paper on arXiv: [Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration](https://arxiv.org/abs/2501.14158) :heart:
 
 
 #### Citation
 ```python
 @article{safari2024fast,
       title={Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration}, 
-      author={Mojtaba Safari and Zach Eidex and Chih-Wei Chang and Richard L. J. Qiu, and Xiaofeng Yang},
+      author={Mojtaba Safari and Zach Eidex and Chih-Wei Chang and Richard L. J. Qiu and Xiaofeng Yang},
       year={2025},
+      eprint={2501.14158},
       archivePrefix={arXiv},
-        }
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.14158}, 
+}
 ```
 ![Overview](./figures/overview.svg)
 ## Updates
@@ -32,7 +35,7 @@
 - [Papers](#papers)
   - [End-to-end](#End-to-end)
   - [Unrolled models](#unroll-model)
-    - [Unroll optimization](#Unroll-optimization)
+    - [Unrolled optimization](#Unroll-optimization)
     - [DC layers](#DC-layer)
   - [Self-supervised](#Self-supervise)
   - [Federated learning](#Federated-Learning)
@@ -274,6 +277,13 @@
 ### Unrolled model
 #### Unrolled optimization
 
+**Spatial-frequency aware zero-centric residual unfolding network for MRI reconstruction** \
+*upeng Lian, Zhiwei Liu, Jin Wang, and Shuai Lu* \
+[22 January 2025] [MRI] \
+[[Paper](https://doi.org/10.1016/j.mri.2025.110334)]
+
+
+
 **An improved low-rank plus sparse unrolling network method for dynamic magnetic resonance imaging** \
 *Marc Vornehm, Jens Wetzl, Daniel Giese, Florian Fürnrohr, Jianing Pang, Kelvin Chow, Rolf Gebker, Rizwan Ahmad, and Florian Knoll* \
 [28 November 2024] [Med. Phys.] \
@@ -284,7 +294,7 @@
 **CineVN: Variational network reconstruction for rapid functional cardiac cine MRI** \
 *Marc Vornehm, Jens Wetzl, Daniel Giese, Florian Fürnrohr, Jianing Pang, Kelvin Chow, Rolf Gebker, Rizwan Ahmad, and Florian Knoll* \
 [28 October 2024] [Magn. Reson. in Med.] \
-[[Paper](https://doi.org/10.1002/mrm.30260)] 
+[[Paper](https://doi.org/10.1002/mrm.30260)] [[Github](https://github.com/marcvornehm/CineVN)]
 
 **Adaptive Knowledge Distillation for High-Quality Unsupervised MRI Reconstruction With Model-Driven Priors** \
 *Xiaoyu Qiao, Weisheng Li, Yuping Huang and Lijian Yang* \
@@ -518,6 +528,12 @@
 ---
 
 #### DC layer
+
+**FDuDoCLNet: Fully dual-domain contrastive learning network for parallel MRI reconstruction** \
+*Huiyao Zhang, Tiejun Yang, Heng Wang, Jiacheng Fan, Wenjie Zhang, and Mingzhu Ji* \
+[24 January 2025] [MRI]<br>
+[[Paper](https://doi.org/10.1016/j.mri.2025.110336)] 
+
 
 **Unsupervised reconstruction of accelerated cardiac cine MRI using neural fields** \
 *Tabita Catalán, Matías Courdurier, Axel Osses, Anastasia Fotaki, René Botnar, Francisco Sahli-Costabal, and Claudia Prieto* \
@@ -799,6 +815,12 @@
 ---
 
 ### Federated Learning
+
+**FAME: A Federated Adversarial Learning Framework for Privacy-Preserving MRI Reconstruction** \
+*Shahzad Ahmed, Jinchao Feng, Javed Ferzund, Muhammad Yaqub, Muhammad Usman Ali, Malik Abdul Manan, and Abdul Raheem* \
+[25 January 2025] [Appl Magn Reson] \
+[[Paper](https://doi.org/10.1007/s00723-025-01749-0)]
+
 
 **Generalizable Reconstruction for Accelerating MR Imaging via Federated Learning With Neural Architecture Search** \
 *Ruoyou Wu, Cheng Li, Juan Zou, Xinfeng Liu, Hairong Zheng, and Shanshan Wang* \
