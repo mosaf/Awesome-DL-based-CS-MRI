@@ -1,7 +1,11 @@
 # <p align=center>`Awesome Deep learning-based MRI Reconstruction`</p> # 
 
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mosaf/Awesome-DL-based-CS-MRI) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+
 
 :fire::fire: This is a collection of awesome articles about deep learning in MRI reconstruction:fire::fire:
 
@@ -34,8 +38,8 @@
 - [Tutorials](#tutorials)
 - [Papers](#papers)
   - [End-to-end](#End-to-end)
-  - [Unrolled models](#unroll-model)
-    - [Unrolled optimization](#Unroll-optimization)
+  - [Unrolled models](#unrolled-model)
+    - [Unrolled optimization](#Unrolled-optimization)
     - [DC layers](#DC-layer)
   - [Self-supervised](#Self-supervise)
   - [Federated learning](#Federated-Learning)
@@ -277,8 +281,15 @@
 ### Unrolled model
 #### Unrolled optimization
 
+**Digging Deeper in Gradient for Unrolling-based Accelerated MRI Reconstruction** \
+*Faming Fang, Tingting Wang, Guixu Zhang, Fang Li* \
+[07 January 2025] [IEEE TPAMI] \
+[[Paper](https://doi.org/10.1109/TPAMI.2025.3540218)]
+
+
+
 **Spatial-frequency aware zero-centric residual unfolding network for MRI reconstruction** \
-*upeng Lian, Zhiwei Liu, Jin Wang, and Shuai Lu* \
+*Yupeng Lian, Zhiwei Liu, Jin Wang, and Shuai Lu* \
 [22 January 2025] [MRI] \
 [[Paper](https://doi.org/10.1016/j.mri.2025.110334)]
 
@@ -529,10 +540,19 @@
 
 #### DC layer
 
+
+
 **FDuDoCLNet: Fully dual-domain contrastive learning network for parallel MRI reconstruction** \
 *Huiyao Zhang, Tiejun Yang, Heng Wang, Jiacheng Fan, Wenjie Zhang, and Mingzhu Ji* \
 [24 January 2025] [MRI]<br>
 [[Paper](https://doi.org/10.1016/j.mri.2025.110336)] 
+
+
+**Ensemble and low-frequency mixing with diffusion models for accelerated MRI reconstruction** \
+*Yejee Shin, Geonhui Son, Dosik Hwang, and Taejoon Eo* \
+[17 January 2025] [MedIA]<br>
+[[Paper](https://doi.org/10.1016/j.media.2025.103477)] 
+
 
 
 **Unsupervised reconstruction of accelerated cardiac cine MRI using neural fields** \
@@ -543,10 +563,13 @@
 
 **Highly accelerated MRI via implicit neural representation guided posterior sampling of diffusion models** \
 *Jiayue Chu, Chenhe Du, Xiyue Lin, Xiaoqun Zhang, Lihui Wang, Yuyao Zhang, and Hongjiang Wei* \
-[23 November 202] [Medical Image Analysis]<br>
+[23 November 2024] [Medical Image Analysis]<br>
 [[Paper](https://doi.org/10.1016/j.media.2024.103398)] 
 
-
+**SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI** \
+*Zhuo-Xu Cui, Chentao Cao, Yue Wang, Sen Jia, Jing Cheng, and Xin Liu* \
+[03 October 2024] [TMI]<br>
+[[Paper](https://doi.org/10.1109/TMI.2024.3473009)][[Github](https://github.com/zhyjSIAT/SPIRiT-Diffusion)]
 
 **CRNN-Refined Spatiotemporal Transformer for Dynamic MRI reconstruction** \
 *Bin Wang, Yusheng Lian, Xingchuang Xiong, Hongbin Han, and Zilong Liu* \
