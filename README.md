@@ -294,6 +294,10 @@
 [[Paper](https://doi.org/10.1016/j.mri.2025.110334)]
 
 
+**Progressive Divide-and-Conquer via Subsampling Decomposition for Accelerated MRI** \
+*Chong Wang, Lanqing Guo, Yufei Wang, Hao Cheng, Yi Yu, Bihan Wen* \
+[2024] [CVPR 2024 Highlight] \
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Progressive_Divide-and-Conquer_via_Subsampling_Decomposition_for_Accelerated_MRI_CVPR_2024_paper.html)][[Github](https://github.com/ChongWang1024/PDAC)]
 
 **An improved low-rank plus sparse unrolling network method for dynamic magnetic resonance imaging** \
 *Marc Vornehm, Jens Wetzl, Daniel Giese, Florian Fürnrohr, Jianing Pang, Kelvin Chow, Rolf Gebker, Rizwan Ahmad, and Florian Knoll* \
