@@ -555,8 +555,7 @@
 **Ensemble and low-frequency mixing with diffusion models for accelerated MRI reconstruction** \
 *Yejee Shin, Geonhui Son, Dosik Hwang, and Taejoon Eo* \
 [17 January 2025] [MedIA]<br>
-[[Paper](https://doi.org/10.1016/j.media.2025.103477)] 
-
+[[Paper](https://doi.org/10.1016/j.media.2025.103477)][[Github](https://github.com/yejees/ELF-Diff)]
 
 
 **Unsupervised reconstruction of accelerated cardiac cine MRI using neural fields** \
