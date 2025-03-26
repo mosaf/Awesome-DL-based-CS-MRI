@@ -64,6 +64,23 @@
 
 ### End-to-end
 
+**DGEDDGAN: A dual-domain generator and edge-enhanced dual discriminator generative adversarial network for MRI reconstruction** \
+*Qiaohong Liu, Weikun Zhang, Yuting Zhang, Xiaoxiang Han, Yuanjie Lin, Xinyu Li, Keyan Chen* \
+[08 March 2025] [Magnetic Resonance Imaging]<br>
+[[Paper](https://doi.org/10.1016/j.mri.2025.110381)]
+
+
+**SHFormer: Dynamic spectral filtering convolutional neural network and high-pass kernel generation transformer for adaptive MRI reconstruction** \
+*Sriprabha Ramanarayanan, Rahul G.S., Mohammad Al Fahim, Keerthi Ram, Ramesh Venkatesan, Mohanasankar Sivaprakasam* \
+[08 March 2025] [Neural Networks]<br>
+[[Paper](https://doi.org/10.1016/j.neunet.2025.107334)] [[Github](https://github.com/sriprabhar/SHFormer)] 
+
+
+**Lightweight Hypercomplex MRI Reconstruction: A Generalized Kronecker Parameterized Approach** \
+*Haosen Zhang, Jiahao Huang, Yinzhe Wu, Congren Dai, Fanwen Wang, Zhenxuan Zhang, and Guang Yang* \
+[11 March 2025] [preprint arXiv]<br>
+[[Paper](https://arxiv.org/abs/2503.05063)] 
+
 
 **AutoSamp: Autoencoding k-Space Sampling via Variational Information Maximization for 3D MRI** \
 *Cagan Alkan, Morteza Mardani, Congyu Liao, Zhitao Li, Shreyas S. Vasanawala, and John M. Pauly* \
@@ -280,6 +297,11 @@
 ---
 ### Unrolled model
 #### Unrolled optimization
+
+**MCU-Net: A multi-prior collaborative deep unfolding network with gates-controlled spatial attention for accelerated MRI reconstruction** \
+*Xiaoyu Qiao, Weisheng Li, Guofen Wang, Yuping Huang* \
+[15 February 2025] [Neurocomputing] \
+[[Paper](https://doi.org/10.1016/j.neucom.2025.129771)]
 
 **Digging Deeper in Gradient for Unrolling-based Accelerated MRI Reconstruction** \
 *Faming Fang, Tingting Wang, Guixu Zhang, Fang Li* \
