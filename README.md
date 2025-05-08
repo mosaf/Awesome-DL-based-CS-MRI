@@ -864,6 +864,11 @@
 
 ### Federated Learning
 
+**Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction** \
+*Valiyeh A. Nezhad, Gokberk Elmas, Bilal Kabas, Fuat Arslan, Tolga Çukur*\
+[06 February 2025] [preprint arXiv] \
+[[Paper](https://doi.org/10.48550/arXiv.2502.04521)] [[Github](https://github.com/icon-lab/FedGAT)]
+
 **FAME: A Federated Adversarial Learning Framework for Privacy-Preserving MRI Reconstruction** \
 *Shahzad Ahmed, Jinchao Feng, Javed Ferzund, Muhammad Yaqub, Muhammad Usman Ali, Malik Abdul Manan, and Abdul Raheem* \
 [25 January 2025] [Appl Magn Reson] \
