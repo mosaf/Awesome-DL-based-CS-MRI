@@ -64,6 +64,12 @@
 
 ### End-to-end
 
+**LMO: Linear Mamba Operator for MRI Reconstruction** \
+*Li, Wei and Jiang, Jiawei and Wu, Jie and Yu, Kaihao and Zheng, Jianwei* \
+[2025] [CVPR]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LMO_Linear_Mamba_Operator_for_MRI_Reconstruction_CVPR_2025_paper.pdf)] [[Github](https://github.com/ZhengJianwei2/LMO)] 
+
+
 **DGEDDGAN: A dual-domain generator and edge-enhanced dual discriminator generative adversarial network for MRI reconstruction** \
 *Qiaohong Liu, Weikun Zhang, Yuting Zhang, Xiaoxiang Han, Yuanjie Lin, Xinyu Li, Keyan Chen* \
 [08 March 2025] [Magnetic Resonance Imaging]<br>
@@ -821,6 +827,18 @@
 ---
 
 #### Self-supervise
+
+
+**AeSPa : Attention-guided Self-supervised Parallel Imaging for MRI Reconstruction** \
+*Joo, Jinho and Kim, Hyeseong and Won, Hyeyeon and Lee, Deukhee and Eo, Taejoon and Hwang, Dosik* \
+[2025] [CVPR]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Joo_AeSPa__Attention-guided_Self-supervised_Parallel_Imaging_for_MRI_Reconstruction_CVPR_2025_paper.pdf)] [[Github](https://github.com/joojinho97/AeSPa)] 
+
+
+**Robust multi-coil MRI reconstruction via self-supervised denoising** \
+*Asad Aali, Marius Arvinte, Sidharth Kumar, Yamin I. Arefeen, Jonathan I. Tamir* \
+[02 June 2025] [Magn. Reson. in Med.]<br>
+[[Paper](https://doi.org/10.1002/mrm.30591)] [[Github](https://github.com/utcsilab/gsure-diffusion-mri)] 
 
 
 
