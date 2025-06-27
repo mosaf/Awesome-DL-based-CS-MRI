@@ -571,6 +571,18 @@
 ---
 
 #### DC layer
+**CS-SwinGAN: A swin-transformer-based generative adversarial network with compressed sensing pre-enhancement for multi-coil MRI reconstruction** \
+*Haikang Zhang, Zongqi Li, Qingming Huang, Luying Huang, Yicheng Huang, Wentao Wang, and Bing Shen* \
+[24 May 2025] [Biomedical Signal Processing and Control]<br>
+[[Paper](https://doi.org/10.1016/j.bspc.2025.108120)][[Github](https://github.com/notmayday/CS-SwinGAN_MC_Rec)]
+
+
+
+**Dual-path network with dual-domain fusion and cross-attention for MRI reconstruction** \
+*Wenqi Chen, Zhirong Gao, Yuan He, Jingxuan Wanyan, and Chengyi Xiong* \
+[24 May 2025] [Biomedical Signal Processing and Control]<br>
+[[Paper](https://doi.org/10.1016/j.bspc.2025.108120)]
+
 
 
 
