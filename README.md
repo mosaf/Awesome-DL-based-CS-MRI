@@ -571,6 +571,13 @@
 ---
 
 #### DC layer
+
+**A parallel dual-domain crossing network combining attention enhancement and multimodal fusion for MRI reconstruction** \
+*Yanqing Li, Hongqing Zhu, Tong Hou, Ning Chen, Bingcang Huang, Weiping Lu, Ying Wang, and Suyi Yang* \
+[10 July 2025] [Biomedical Signal Processing and Control]<br>
+[[Paper](https://doi.org/10.1016/j.bspc.2025.108326)][[Github](https://github.com/YanQLi/AMC-Net)]
+
+
 **CS-SwinGAN: A swin-transformer-based generative adversarial network with compressed sensing pre-enhancement for multi-coil MRI reconstruction** \
 *Haikang Zhang, Zongqi Li, Qingming Huang, Luying Huang, Yicheng Huang, Wentao Wang, and Bing Shen* \
 [24 May 2025] [Biomedical Signal Processing and Control]<br>
@@ -581,7 +588,7 @@
 **Dual-path network with dual-domain fusion and cross-attention for MRI reconstruction** \
 *Wenqi Chen, Zhirong Gao, Yuan He, Jingxuan Wanyan, and Chengyi Xiong* \
 [24 May 2025] [Biomedical Signal Processing and Control]<br>
-[[Paper](https://doi.org/10.1016/j.bspc.2025.108120)]
+[[Paper](https://doi.org/10.1016/j.bspc.2025.108181)]
 
 
 
