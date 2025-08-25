@@ -15,6 +15,20 @@
 
 #### Citation
 ```python
+@article{SAFARI2026108291,
+title = {Advancing MRI reconstruction: A systematic review of deep learning and compressed sensing integration},
+journal = {Biomedical Signal Processing and Control},
+volume = {111},
+pages = {108291},
+year = {2026},
+issn = {1746-8094},
+doi = {https://doi.org/10.1016/j.bspc.2025.108291},
+url = {https://www.sciencedirect.com/science/article/pii/S174680942500802X},
+author = {Mojtaba Safari and Zach Eidex and Chih-Wei Chang and Richard L.J. Qiu and Xiaofeng Yang},
+keywords = {Compressed sensing, Magnetic resonance imaging, MRI reconstruction, FastMRI, MRI acceleration, Deep MRI reconstruction, Accelerated MRI reconstruction},
+}
+
+arXiv
 @article{safari2024fast,
       title={Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration}, 
       author={Mojtaba Safari and Zach Eidex and Chih-Wei Chang and Richard L. J. Qiu and Xiaofeng Yang},
@@ -304,6 +318,18 @@
 ### Unrolled model
 #### Unrolled optimization
 
+**Dual-Domain Self-Consistency-Enhanced Deep Unfolding Network for accelerated MRI reconstruction** \
+*Zhijie Wang, Jinbao Wei, Gang Yang, Aiping Liu, Wei Wei, Bensheng Qiu, and Xun Chen* \
+[5 August 2025] [Computer Methods and Programs in Biomedicine] \
+[[Paper](https://doi.org/10.1016/j.cmpb.2025.108995][[Github](https://github.com/wangzj1997/DSDUN.git)]
+
+
+**Unsupervised 4D-flow MRI reconstruction based on partially-independent generative modeling and complex-difference sparsity constraint** \
+*Zhongsen Li, Aiqi Sun, Haining Wei, Wenxuan Chen, Chuyu Liu, Haozhong Sun, Chenlin Du, and Rui Li* \
+[10 August 2025] [Medical Image Analysis] \
+[[Paper](https://doi.org/10.1016/j.media.2025.103769)][[Github](https://github.com/lizs17/Unsup_4DFlow_MRI)]
+
+
 **MCU-Net: A multi-prior collaborative deep unfolding network with gates-controlled spatial attention for accelerated MRI reconstruction** \
 *Xiaoyu Qiao, Weisheng Li, Guofen Wang, Yuping Huang* \
 [15 February 2025] [Neurocomputing] \
@@ -571,6 +597,13 @@
 ---
 
 #### DC layer
+
+
+**Robust Cardiac Cine MRI Reconstruction with Spatiotemporal Diffusion Model** \
+*Zi Wang, Jiahao Huang, Mingkai Huang, Chengyan Wang, Guang Yang, and Xiaobo Qu* \
+[13 August 2025] [IEEE Transactions on Computational Imaging]<br>
+[[Paper](https://doi.org/10.1109/TCI.2025.3598421)]
+
 
 **A parallel dual-domain crossing network combining attention enhancement and multimodal fusion for MRI reconstruction** \
 *Yanqing Li, Hongqing Zhu, Tong Hou, Ning Chen, Bingcang Huang, Weiping Lu, Ying Wang, and Suyi Yang* \
