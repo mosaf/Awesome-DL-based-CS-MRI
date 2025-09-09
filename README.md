@@ -1001,6 +1001,21 @@ arXiv
 
 # Dataset
 
+
+### CMRxRecon2025
+*Human Phenome Institute, Fudan University, Shanghai, China* \
+`Multi-coil raw k-space data` [[Dataset](https://www.synapse.org/Synapse:syn64952554/datasets/)] [[Github](https://github.com/CmrxRecon/CMRxRecon2025)] <br>
+* Imaging region
+  * Cardiac MRI
+    *  T$_1$, T$_2$, T$_2^*$ maps
+    * T$_1$w and T$_2$w
+    * T$_1\rho$
+    * Black blood
+    * Phase contrast
+    * LGE
+    * Perfusion
+
+
 ### fastMRI Dataset
 *Center for Advanced Imaging Innovation and Research (CAI2R), Department of Radiology at NYU School of Medicine and NYU Langone Health* \
 `Multi-coil raw k-space data` [[Dataset](https://fastmri.med.nyu.edu/)] [[Github](https://github.com/facebookresearch/fastMRI)] <br>
