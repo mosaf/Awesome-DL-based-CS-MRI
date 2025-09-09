@@ -318,6 +318,13 @@ arXiv
 ### Unrolled model
 #### Unrolled optimization
 
+**Unsupervised 4D-flow MRI reconstruction based on partially-independent generative modeling and complex-difference sparsity constraint** \
+*Zhongsen Li, Aiqi Sun, Haining Wei, Wenxuan Chen, Chuyu Liu, Haozhong Sun, Chenlin Du, Rui Li*\
+[10 August 2025] [Medical Image Analysis] \
+[[Paper](https://doi.org/10.1016/j.media.2025.103769][[Github](https://github.com/lizs17/Unsup_4DFlow_MRI)]
+
+
+
 **Dual-Domain Self-Consistency-Enhanced Deep Unfolding Network for accelerated MRI reconstruction** \
 *Zhijie Wang, Jinbao Wei, Gang Yang, Aiping Liu, Wei Wei, Bensheng Qiu, and Xun Chen* \
 [5 August 2025] [Computer Methods and Programs in Biomedicine] \
