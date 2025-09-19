@@ -318,6 +318,14 @@ arXiv
 ### Unrolled model
 #### Unrolled optimization
 
+
+**Model-unrolled fast MRI with weakly supervised lesion enhancement** \
+*Fangmao Ju, Yuzhu He, Fan Wang, Xianjun Li, Chen Niu, Chunfeng Lian, Jianhua Ma*\
+[7 September 2025] [Medical Image Analysis] \
+[[Paper](https://doi.org/10.1016/j.media.2025.103806][[Github](https://github.com/ladderlab-xjtu/LF-MRI)]
+
+
+
 **Unsupervised 4D-flow MRI reconstruction based on partially-independent generative modeling and complex-difference sparsity constraint** \
 *Zhongsen Li, Aiqi Sun, Haining Wei, Wenxuan Chen, Chuyu Liu, Haozhong Sun, Chenlin Du, Rui Li*\
 [10 August 2025] [Medical Image Analysis] \
@@ -330,11 +338,6 @@ arXiv
 [5 August 2025] [Computer Methods and Programs in Biomedicine] \
 [[Paper](https://doi.org/10.1016/j.cmpb.2025.108995][[Github](https://github.com/wangzj1997/DSDUN.git)]
 
-
-**Unsupervised 4D-flow MRI reconstruction based on partially-independent generative modeling and complex-difference sparsity constraint** \
-*Zhongsen Li, Aiqi Sun, Haining Wei, Wenxuan Chen, Chuyu Liu, Haozhong Sun, Chenlin Du, and Rui Li* \
-[10 August 2025] [Medical Image Analysis] \
-[[Paper](https://doi.org/10.1016/j.media.2025.103769)][[Github](https://github.com/lizs17/Unsup_4DFlow_MRI)]
 
 
 **MCU-Net: A multi-prior collaborative deep unfolding network with gates-controlled spatial attention for accelerated MRI reconstruction** \
