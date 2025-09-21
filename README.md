@@ -332,6 +332,11 @@ arXiv
 [[Paper](https://doi.org/10.1016/j.media.2025.103769][[Github](https://github.com/lizs17/Unsup_4DFlow_MRI)]
 
 
+**Anatomy-Aware Deep Unrolling for Task-Oriented Acceleration of Multi-Contrast MRI** \
+*Yuzhu He, Chunfeng Lian, Ruyi Xiao, Fangmao Ju, Chao Zou, and Zongben Xu*\
+[7 September 2025] [IEEE TMI] \
+[[Paper](https://doi.org/10.1109/TMI.2025.3568157][[Github](https://github.com/ladderlab-xjtu/A2MC-MRI)]
+
 
 **Dual-Domain Self-Consistency-Enhanced Deep Unfolding Network for accelerated MRI reconstruction** \
 *Zhijie Wang, Jinbao Wei, Gang Yang, Aiping Liu, Wei Wei, Bensheng Qiu, and Xun Chen* \
@@ -609,6 +614,8 @@ arXiv
 #### DC layer
 
 
+
+
 **Robust Cardiac Cine MRI Reconstruction with Spatiotemporal Diffusion Model** \
 *Zi Wang, Jiahao Huang, Mingkai Huang, Chengyan Wang, Guang Yang, and Xiaobo Qu* \
 [13 August 2025] [IEEE Transactions on Computational Imaging]<br>
@@ -640,6 +647,11 @@ arXiv
 *Huiyao Zhang, Tiejun Yang, Heng Wang, Jiacheng Fan, Wenjie Zhang, and Mingzhu Ji* \
 [24 January 2025] [MRI]<br>
 [[Paper](https://doi.org/10.1016/j.mri.2025.110336)] 
+
+**Self-Supervised Feature Learning for Cardiac Cine MR Image Reconstruction** \
+*Siying Xu, Marcel Früh, Kerstin Hammernik, Andreas Lingg, Jens Kübler, Patrick Krumm, Daniel Rueckert, Sergios Gatidis, and Thomas Küstner* \
+[23 May 2025] [IEEE Transactions on Medical Imaging]<br>
+[[Paper](https://doi.org/10.1109/TMI.2025.3570226)][[Github](https://github.com/midas-tum/SSFL-Recon)]
 
 
 **Ensemble and low-frequency mixing with diffusion models for accelerated MRI reconstruction** \
