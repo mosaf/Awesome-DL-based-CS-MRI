@@ -317,6 +317,12 @@ arXiv
 ---
 ### Unrolled model
 #### Unrolled optimization
+**Transformer–Mamba based dynamic threshold generation for dual frame network and its application in compressed sensing MRI** \
+*Yu‑ang Xiao and Yueming Su*\
+[22 October 2025] [EURASIP Journal on Advances in Signal Processing] \
+[[Paper](https://doi.org/10.1186/s13634-025-01259-y][[Github](https://github.com/ladderlab-xjtu/LF-MRI)]
+
+
 
 
 **Model-unrolled fast MRI with weakly supervised lesion enhancement** \
@@ -612,6 +618,11 @@ arXiv
 ---
 
 #### DC layer
+
+**PixelINR: Scan-specific self-supervised MRI reconstruction based on implicit neural representations** \
+*Songxiao Yang, Yafei Ou, and Masatoshi Okutomi* \
+[10 October 2025] [Biomedical Signal Processing and Control]<br>
+[[Paper](https://doi.org/10.1016/j.bspc.2025.108838)][[Github](https://github.com/YSongxiao/PixelINR)]
 
 
 
